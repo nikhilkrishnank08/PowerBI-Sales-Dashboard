@@ -30,8 +30,8 @@ The raw dataset had inconsistent date formats - some dates used dashes (`11-08-2
 - **Monthly Revenue Trend** - Line chart showing seasonality and peaks across the year
 - **Regional Performance** - Clustered Bar chart comparing revenue across West, East, Central, and South regions
 - **Top Products by Revenue** - Clustered bar chart highlighting the highest-grossing products
-- **Profit by Category** — Donut chart showing profit distribution across Technology, Office Supplies, and Furniture
-- **Interactive Slicers** — Filter the entire dashboard by Year (2014–2017), Region, and Category
+- **Profit by Category** - Donut chart showing profit distribution across Technology, Office Supplies, and Furniture
+- **Interactive Slicers** - Filter the entire dashboard by Year (2014–2017), Region, and Category
 
 ## Key Insights
 
