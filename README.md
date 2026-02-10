@@ -5,7 +5,7 @@ How is our retail business performing across regions, categories, and time perio
 
 ## Dashboard Preview
 ![Sales Performance Dashboard]
-![My Image](images/dashboard_screenshot.png)
+![Sales Performance Dashboard](dashboard_screenshot.png)
 
 ## Dataset
 - **Source:** [Kaggle - Sample Superstore](https://www.kaggle.com/datasets/naveenkumar20bps1137/sample-superstore)
