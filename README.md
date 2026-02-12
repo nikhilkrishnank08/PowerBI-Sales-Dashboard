@@ -1,4 +1,4 @@
-# 📊 Sales Performance Dashboard
+# Sales Performance Dashboard
 
 ## Business Question
 How is our retail business performing across regions, categories, and time periods? Where are the opportunities to grow revenue and improve profitability?
